@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Flip
-//
-//  Created by Erik on 1/12/19.
-//  Copyright © 2019 Organization. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
